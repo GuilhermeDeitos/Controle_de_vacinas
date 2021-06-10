@@ -16,7 +16,6 @@ O sistema deve possibilitar:
 - relatórios com:
     - total de pessoas vacinadas para cada doença
     - total de pessoas vacinadas por mês
-    - média de vacinas por pessoa
 
 
 O sistema deve possibilitar salvar dados cadastrados em arquivo, e recuperar o arquivo durante a abertura do sistema. 
